@@ -1,5 +1,7 @@
 # Zephyr Uart DMA
 
+'''Note I have not got DMA working yet'''
+
 * Showing how to use the UART DMA API. 
 * This application must use a standard board file eg west build -p -b stm32f3_disco 
 * The application implements a UART line echo
