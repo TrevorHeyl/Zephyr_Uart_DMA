@@ -11,7 +11,7 @@
 
 
 /* 1000 msec = 1 sec */
-#define SLEEP_TIME_MS   1000
+#define SLEEP_TIME_MS   500
 
 // Different ways to access node identifiers
 /* The devicetree node identifier for the "green_led_6" label */
